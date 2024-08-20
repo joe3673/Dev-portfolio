@@ -15,6 +15,6 @@ export const experiences = [
     id: 3,
     title: "Learning Ambassador",
     company: "Amazon",
-    duration: "(Jul 2021 - Present)"
+    duration: "(Jul 2021 - Aug 2024)"
   }
 ]
